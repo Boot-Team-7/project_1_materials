@@ -1,25 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-Impact on cost having roommates	
-	
-number of room mates 	Avg cost % on me
-none	100%
-1 roommate	38%
-2 roommate	45%
-3 roommate	52%
-
-
-
+##Do I need roommates?
 
 -----------------------
 
@@ -34,6 +13,19 @@ studio	 $751.55
 
 
 
+--------------------
+
+
+Impact on cost having roommates	
+	
+number of room mates 	Avg cost % on me
+none	100%
+1 roommate	38%
+2 roommate	45%
+3 roommate	52%
+
+
+-------------------
 
 
 
