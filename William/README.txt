@@ -1,4 +1,4 @@
-##Do I need roommates?
+## Do I need roommates?
 
 -----------------------
 
@@ -26,7 +26,6 @@ No roommates	100%	 $-
 
 
 -------------------
-
 
 
 
