@@ -63,26 +63,26 @@ We were then able to merge the 3 CSVs files into one DataFrame by merging 2020 w
 After merging the data, we reduced the DataFrame to only the necessary columns, renamed the columns, and dropped null values from the data. 
 
 After we cleaned our data, we were left with the following 20 columns:
-- state = displays state ID 
-- county = displays county ID
-- county name = displays name of the county
-- state initial = displays initial of the state (e.g. TX stands for Texas)
-- studio_2020 = median rent price for a studio in 2020
-- studio_2021 = median rent price for a studio in 2021
-- studio_2021 = median rent price for a studio in 2022
-- bedroom_1_2020 = median rent price for a 1 bedroom in 2020
-- bedroom_1_2021 = median rent price for a 1 bedroom in 2021
-- bedroom_1_2022 = median rent price for a 1 bedroom in 2022
-- bedroom_2_2020 = median rent price for a 2 bedroom in 2020
-- bedroom_2_2021 = median rent price for a 2 bedroom in 2021
-- bedroom_2_2022 = median rent price for a 2 bedroom in 2022
-- bedroom_3_2020 = median rent price for a 3 bedroom in 2020
-- bedroom_3_2021 = median rent price for a 3 bedroom in 2021
-- bedroom_3_2022 = median rent price for a 3 bedroom in 2022
-- bedroom_4_2020 = median rent price for a 4 bedroom in 2020
-- bedroom_4_2021 = median rent price for a 4 bedroom in 2021
-- bedroom_4_2022 = median rent price for a 4 bedroom in 2022
-- pop_2017 = county population (as of 2017)
+- **state**  ->  displays state ID 
+- **county**  ->  displays county ID
+- **county name**  ->  displays name of the county
+- **state initial**  ->  displays initial of the state (e.g. TX stands for Texas)
+- **studio_2020**  ->  median rent price for a studio in 2020
+- **studio_2021** ->  median rent price for a studio in 2021
+- **studio_2021** ->  median rent price for a studio in 2022
+- **bedroom_1_2020** ->  median rent price for a 1 bedroom in 2020
+- **bedroom_1_2021** ->  median rent price for a 1 bedroom in 2021
+- **bedroom_1_2022** ->  median rent price for a 1 bedroom in 2022
+- **bedroom_2_2020** ->  median rent price for a 2 bedroom in 2020
+- **bedroom_2_2021** ->  median rent price for a 2 bedroom in 2021
+- **bedroom_2_2022** ->  median rent price for a 2 bedroom in 2022
+- **bedroom_3_2020** ->  median rent price for a 3 bedroom in 2020
+- **bedroom_3_2021** ->  median rent price for a 3 bedroom in 2021
+- **bedroom_3_2022**  ->  median rent price for a 3 bedroom in 2022
+- **bedroom_4_2020**  ->  median rent price for a 4 bedroom in 2020
+- **bedroom_4_2021**  ->   median rent price for a 4 bedroom in 2021
+- **bedroom_4_2022**  ->  median rent price for a 4 bedroom in 2022
+- **pop_2017** ->  county population (as of 2017)
 
 ## Recommendations
 
