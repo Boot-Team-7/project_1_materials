@@ -17,6 +17,7 @@ In our latest "Ask the Data Experts" blog, we received the following question fr
 
 > "Having spent many years with my parents, they finally decided to kick me out! :worried: But where do I go now? Do I stay in Georgia or move to another State? Should I look for a studio? A 1 bedroom apartment? Or should I get roommates instead? Would you all be able to use data to help me with some recommendations?" - Paul (29 years old)
 
+
 When digging further into Paul's preferences, he mentioned the following:
 - Affordability is important.
 - Open to living with or without roomates.
