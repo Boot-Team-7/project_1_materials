@@ -52,9 +52,9 @@ Since we wanted to provide Paul with the most up to date information, we focused
 
 The first step that we took in our [Jupyter Notebook](/Consolidated/Project------Kicked%20OUT!!.ipynb) was to read the 3 different CSV files (2020-2022):
 
-`rents_2020 = pd.read_csv("UTF/FY2020_50_County_rev.csv")`
-`rents_2021 = pd.read_csv("UTF/FY2021_50_County.csv")`
-`rents_2022 = pd.read_csv("UTF/FY2022_FMR_50_county_rev.csv")`
+- `rents_2020 = pd.read_csv("UTF/FY2020_50_County_rev.csv")`
+- `rents_2021 = pd.read_csv("UTF/FY2021_50_County.csv")`
+- `rents_2022 = pd.read_csv("UTF/FY2022_FMR_50_county_rev.csv")`
 
 We were then able to merge the three CSVs files into one DataFrame:
 `rent_20_21 = pd.merge(rents_2020, rents_2021, how="left", on=["state", "county", "cousub"], suffixes=('_2020', '_2021'))`
