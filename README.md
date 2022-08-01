@@ -63,7 +63,7 @@ We were then able to merge the 3 CSVs files into one DataFrame by merging 2020 w
 After merging the data, we reduced the DataFrame to only the necessary columns, renamed the columns, and dropped null values from the data. 
 
 After we cleaned our data, we were left with the following 20 columns:
-- **state**  ->  displays state ID 
+- **state**  →   displays state ID 
 - **county**  ->  displays county ID
 - **county name**  ->  displays name of the county
 - **state initial**  ->  displays initial of the state (e.g. TX stands for Texas)
