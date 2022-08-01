@@ -56,9 +56,9 @@ The first step that we took in our [Jupyter Notebook](/Consolidated/Project-----
 - `rents_2021 = pd.read_csv("UTF/FY2021_50_County.csv")`
 - `rents_2022 = pd.read_csv("UTF/FY2022_FMR_50_county_rev.csv")`
 
-We were then able to merge the three CSVs files into one DataFrame:
-`rent_20_21 = pd.merge(rents_2020, rents_2021, how="left", on=["state", "county", "cousub"], suffixes=('_2020', '_2021'))`
-`rent_20_21_22 = pd.merge(rent_20_21, rents_2022, how="left", on=["state", "county", "cousub"])`
+We were then able to merge the 3 CSVs files into one DataFrame by merging 2020 with 2021, and then merging 2020-2021 with 2022:
+- `rent_20_21 = pd.merge(rents_2020, rents_2021, how="left", on=["state", "county", "cousub"], suffixes=('_2020', '_2021'))`
+- `rent_20_21_22 = pd.merge(rent_20_21, rents_2022, how="left", on=["state", "county", "cousub"])`
 
 ### Data Cleaning
 
