@@ -44,7 +44,7 @@ Our initial data exploration phase started by exploring some of the data sets av
 
 In this website, we were able to find the following [data sets](https://www.huduser.gov/portal/datasets/50per.html#2022), which contain median rent estimates for all of the different counties in the United States (and its territories). 
 
-Since we wanted to give Paul the most up to date information, we focused on 2020-2022 data. We saved the different csv files (2020, 2021, 2022) in the following [folder](/50TH-Percentile-Rent-Estimates-Data/UTF/). 
+Since we wanted to provide Paul with the most up to date information, we focused on 2020-2022 data. We saved the different csv files (2020, 2021, 2022) in the following [folder](/50TH-Percentile-Rent-Estimates-Data/UTF/). 
 
 ## Analysis
 
