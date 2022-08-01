@@ -22,7 +22,7 @@ When digging further into Paul's preferences, he mentioned the following:
 - Affordability is important.
 - Open to living with or without roomates.
 - Most of his friends and family live in Georgia, but he's open to moving to another state. 
-- Wants to feel safe
+- Wants to feel safe.
 - Paul is a homebody - but he wants to make sure there's things to do whenever he feels like getting out of the house! 
 
 ## Data Team: 
