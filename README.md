@@ -92,3 +92,4 @@ After we cleaned our data, we were left with the following 20 columns:
 
 ## References
 - US Department of Housing and Urban Development (2022). 50TH PERCENTILE RENT ESTIMATES 2019-2022. Retrieved July 21, 2022, from https://www.huduser.gov/portal/datasets/50per.html#2022
+- Google Developers (2012, January 20). Public Data - States. Retrieved July 21, 2022, from https://developers.google.com/public-data/docs/canonical/states_csv
