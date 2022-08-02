@@ -8,7 +8,7 @@
 * [Analysis](#analysis)
 * [Recommendations](#recommendations)
 * [Team Coordination](#team-coordination)
-* [List of Data Sets Used](#data-sets-used) 
+* [List of Data Sets Used](#references) 
 
 
 ## Background Story:  
