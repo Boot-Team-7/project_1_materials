@@ -131,7 +131,7 @@ To answer this question, we created a boxplot that shows rent price for each num
 
 ## **Question 3)** How have rent prices changed per state YoY? (% Increase)
 
-Since we want to ensure that Paul moves to an affordable state, we analyzed how rent prices had increased YoY (2020 vs. 2021) for 1 bedrooms across each of the states. We visualized this using a bar plot:
+Since we want to ensure that Paul moves to an affordable state, we analyzed how rent prices had changed YoY (2020 vs. 2021) for 1 bedrooms across each of the states. We visualized this using a bar plot:
 
 ![image](/Consolidated_new/Screenshots/Screenshot%203.png)
 
