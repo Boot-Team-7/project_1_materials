@@ -226,7 +226,7 @@ To answer this, we made another call to the gmaps API and calculated the distanc
 
 ![image](/Consolidated_new/Screenshots/Code%20Snippet%201.png)
 
-The DataFrame that we created is exported in this [csv](/Consolidated_new/Other_Files/Rent%20Based%20on%20Distance.csv) (screenshot of the csv below):
+The DataFrame that we created is exported in this [csv](/Consolidated_new/Other_Files/Rent%20Based%20on%20Distance.csv):
 
 ![image](/Consolidated_new/Screenshots/Screenshot%20csv.png)
 
