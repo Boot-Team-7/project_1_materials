@@ -242,7 +242,7 @@ We also created bins based on the distance from Atlanta to show some other visua
 ![image](/Consolidated_new/Screenshots/Screenshot%2015.png)
 
     The boxplots show that the bins closest to Atlanta (<30 and 30-60) have the highest median rent price. We also see a high 
-    median rent price around 240-270 miles away from Atlanta, which is where Savannah is located (but the median is still lower 
+    median rent price around 240-270 miles away from Atlanta, which is where Savannah is located (but the rent is still lower 
     than living in Atlanta). 
 
 
