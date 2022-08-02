@@ -110,13 +110,20 @@ In order to help answer this question, we calculated the average rent per number
 
     As expected, the average rent for a one bedroom is more expensive than a studio apartment. However, the increase in rent is only 10%. 
 
+## **Question 2)** Shoud Paul Consider Living with Roommates? 
+
+For question 2, we loaded a csv [file](/Consolidated_new/Other_Files/State avg by room size.csv) that contains the average rents per state by room size (studio, 1 bedroom, 2 bedroom, 3 bedroom, 4 bedroom). 
+
+We made a scatter plot that shows that living with a roommate would be cheaper for Paul than living alone. This is true across all states:
+
+![image](/Consolidated_new/Screenshots/Screenshot%2022.png)
+
+If Paul is willing, getting a 4 bedroom with 3 roommmates would be the most cost-effective option:
+
+![image](/Consolidated_new/Screenshots/Screenshot%2022.png)
 
 
-### **First Recommendation**: Paul should move to a 1 bedroom if he decides to live alone, as there is only a 10% difference in rent between a studio and a one bedroom apartment. This will help Paul have more space.
-
-
-
-## **Question 2)** What is the variability in rent prices for the different bedroom types (studio, 1, 2, 3 or 4 bedroom)? 
+## **Question 3)** What is the variability in rent prices for the different bedroom types (studio, 1, 2, 3 or 4 bedroom)? 
 
 We were also curious about the variability of the different bedroom types. Is there more variability in 4 bedrooms compared to 1 bedrooms? 
 
@@ -127,8 +134,10 @@ To answer this question, we created a boxplot that shows rent price for each num
     Based on the boxplots, studios and 1 bedrooms have less variability in rent prices. 4 bedrooms have the highest variability. 
 
 
+### **First Recommendation**: After talking with Paul, he's decided to live alone. We recommend a 1 bedroom apartment, as there is only a 10% difference in rent between a studio and a one bedroom apartment. This will help Paul have more space. We'll be mostly focusing on 1 bedroom rent prices for the rest of the analysis. 
 
-## **Question 3)** How have rent prices changed per state YoY? (% Increase)
+
+## **Question 4)** How have rent prices changed per state YoY? (% Increase)
 
 Since we want to ensure that Paul moves to an affordable state, we analyzed how rent prices had changed YoY (2020 vs. 2021) for 1 bedrooms across each of the states. We visualized this using a bar plot:
 
@@ -141,7 +150,7 @@ Since we want to ensure that Paul moves to an affordable state, we analyzed how 
 
 
 
-## **Question 4)** What are the top 5 most expensive states by rent price? What are the top 5 least expensive states by rent price? 
+## **Question 5)** What are the top 5 most expensive states by rent price? What are the top 5 least expensive states by rent price? 
 
 While YoY changes in rent prices are important, we also checked which states were the most and least affordable. We created an average rent for all of the different bedroom types and figured out the 5 most expensive and 5 least expensive states (using groupby functions).  
 
@@ -173,7 +182,7 @@ Top 5 Most Affordable States Plotted on Heatmap:
 
 
 
-## **Question 5)** Within Georgia, what are the rent prices of 1 bedrooms for each of the different counties? 
+## **Question 6)** Within Georgia, what are the rent prices of 1 bedrooms for each of the different counties? 
 
 Georgia has 156 counties, a lot of information for just one chart. Therefore, we created 3 different bar charts, organized into alphabetical order.
 
@@ -193,7 +202,7 @@ Based on the bar charts above, there are some counties that may not be suitable 
 
 
 
-## **Question 6)** What is the correlation between population and rent prices in Georgia counties? 
+## **Question 7)** What is the correlation between population and rent prices in Georgia counties? 
 
 Population is also an important factor, as Paul is young and wants to live in a place where there's things to do. If he goes to a highly populated city, will rent prices be higher? Is there a correlation between rent prices and correlation?
 
@@ -220,7 +229,7 @@ With the lat and lng information, we created a HeatMap based on the population o
 
 
 
-## **Question 7)** What is the correlation between distance from the center of Atlanta and rent prices? 
+## **Question 8)** What is the correlation between distance from the center of Atlanta and rent prices? 
 
 To answer this, we made another call to the gmaps API and calculated the distance of each county from the center of Atlanta:
 
@@ -253,7 +262,7 @@ We also created bins based on the distance from Atlanta to show some other visua
 
 
 
-## **Question 8)**  Is there a correlation between crime rate and distance from Atlanta?
+## **Question 9)**  Is there a correlation between crime rate and distance from Atlanta?
 
 To answer this question, we loaded a csv [file](/Consolidated_new/Other_Files/Crime_data_per_county.csv) that contains the crime rates (per 1,000) for each of the GA counties and merged it with our GA counties DataFrame. 
 
@@ -277,7 +286,7 @@ These counties were selected because they are close to major cities (Savannah, A
 
 
 
-## **Question 9)** What are the crime rates for each of the different GA counties that Paul is interested in? 
+## **Question 10)** What are the crime rates for each of the different GA counties that Paul is interested in? 
 
 Below is a DF with the crime rates for each of the 5 counties:
 
@@ -286,7 +295,7 @@ Below is a DF with the crime rates for each of the 5 counties:
     Based on this, Columbia County has the lowest crime rate (0.97) and the lowest 1 bedroom price as well. 
 
 
-## **Question 10)** Can we locate leasing offices for each of the counties on Google maps?
+## **Question 11)** Can we locate leasing offices for each of the counties on Google maps?
 
 In order to further help Paul, we also located different leasing offices that Paul could reach out to in case he wants more information. We accomplished this by using the google places [api](https://developers.google.com/maps/documentation/places/web-service/overview).
 
