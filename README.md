@@ -208,7 +208,7 @@ In order to plot a heatmap for the GA counties, we needed to figure out the lati
 
 ![image](/Consolidated_new/Screenshots/Screenshot%2021.png)
 
-With the lat and lng information, we created a HeatMap based on the population of each GA county, and added clickable markers showing the highest and lowest population by state:
+With the lat and lng information, we created a HeatMap based on the population of each GA county, and added clickable markers showing the highest and lowest counties pased on population size:
 
 ![image](/Consolidated_new/Screenshots/Screenshot%2013.png)
 
