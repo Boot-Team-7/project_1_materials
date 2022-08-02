@@ -173,7 +173,7 @@ Top 5 Most Affordable States Plotted on Heatmap:
 
 
 
-## **Question 5)** Within Georgia, what are the most expensive and least expensive counties based on the median rents of 1 bedrooms? 
+## **Question 5)** Within Georgia, what are the rent prices of 1 bedrooms for each of the different counties? 
 
 Georgia has 156 counties, a lot of information for just one chart. Therefore, we created 3 different bar charts, organized into alphabetical order.
 
