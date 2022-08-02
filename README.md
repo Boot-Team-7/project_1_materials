@@ -93,3 +93,4 @@ After we cleaned our data, we were left with the following 20 columns:
 - Google Developers (2012, January 20). Public Data - States. Retrieved July 21, 2022, from https://developers.google.com/public-data/docs/canonical/states_csv
 - List of Georgia Counties with County Seats (2014). Retrieved July 26,2022, from https://www.downloadexcelfiles.com/ge_en/download-excel-file-list-counties-georgia#.YuhfpOzMKw4
 - Georgia Bureau of Investigation (2022, March 2). 2020 Summary Report Uniform Crime Reporting (UCR) Program Georgia Crime Information Center. Retrieved July 21, 2022, from https://gbi.georgia.gov/services/crime-statistics
+- ASQ.org. Nominal Group Technique. Retrieved July 21, 2022, from https://asq.org/quality-resources/nominal-group-technique#:~:text=Nominal%20group%20technique%20(NGT)%20is,idea%20they%20feel%20is%20best.
