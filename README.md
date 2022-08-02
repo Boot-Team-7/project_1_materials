@@ -99,8 +99,12 @@ In order to help answer this question, we calculated the average rent per number
 ![image](/Consolidated_new/Screenshots/Screenshot%201.png)
 
     As expected, the average rent for a one bedroom is more expensive than a studio apartment. However, the increase in rent is only 10%. Therefore, we recommend Paul goes for a one bedroom apartment so that he can live more comfortable. 
+    
+    
 
 **First Recommendation**: Paul should move to a 1 bedroom if he decides to live alone.
+
+
 
 ### What is the variability in rent prices for the different bedroom types (studio, 1, 2, 3 or 4 bedroom)? 
 
