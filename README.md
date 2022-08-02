@@ -1,7 +1,7 @@
 # MY PARENTS KICKED ME OUT! Where do I go now?
 
 ### Final materials are located in the [Consolidated_new folder](/Consolidated_new).
-### Draft mterials are located in the [Draft folder](/Draft).
+### Draft materials are located in the [Draft folder](/Draft).
 
 
 ## Table of Contents
