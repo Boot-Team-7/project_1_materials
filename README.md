@@ -292,7 +292,7 @@ In order to further help Paul, we also located different leasing offices that Pa
 
 Below is a heatmap with markers for each of the leasing offices that we located:
 
-![image](/Consolidated_new/Screenshots/Screenshot%2019.png)
+![image](/Consolidated_new/Screenshots/Screenshot%2020.png)
 
 
 
