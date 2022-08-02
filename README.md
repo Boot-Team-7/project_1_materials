@@ -1,6 +1,6 @@
 # MY PARENTS KICKED ME OUT! Where do I go now?
 
-### Note: Final materials are located in the Consolidated_new [folder](/Consolidated_new).
+### Final materials are located in the [Consolidated_new folder](/Consolidated_new).
 
 
 ## Table of Contents
