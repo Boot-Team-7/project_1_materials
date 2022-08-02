@@ -112,7 +112,7 @@ In order to help answer this question, we calculated the average rent per number
 
 ## **Question 2)** Shoud Paul Consider Living with Roommates? 
 
-For question 2, we loaded a csv [file](/Consolidated_new/Other_Files/State avg by room size.csv) that contains the average rents per state by room size (studio, 1 bedroom, 2 bedroom, 3 bedroom, 4 bedroom). 
+For question 2, we loaded a csv [file](/Consolidated_new/Other_Files/Rent%20Based%20on%20Distance.csv) that contains the average rents per state by room size (studio, 1 bedroom, 2 bedroom, 3 bedroom, 4 bedroom). 
 
 We made a scatter plot that shows that living with a roommate would be cheaper for Paul than living alone. This is true across all states:
 
