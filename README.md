@@ -19,6 +19,7 @@ In our latest "Ask the Data Experts" blog, we received the following question fr
 
 When digging further into Paul's preferences, he mentioned the following:
 - Affordability is important.
+- Wants to have space.
 - Open to living with or without roomates.
 - Most of his friends and family live in Georgia, but he's open to moving to another state if needed.
 - Wants to feel safe
@@ -109,11 +110,12 @@ In order to help answer this question, we calculated the average rent per number
 
 ![image](/Consolidated_new/Screenshots/Screenshot%201.png)
 
-    As expected, the average rent for a one bedroom is more expensive than a studio apartment. However, the increase in rent is only 10%. Therefore, we recommend Paul goes for a one bedroom apartment so that he can live more comfortable. 
+    As expected, the average rent for a one bedroom is more expensive than a studio apartment. 
+    However, the increase in rent is only 10%. 
 
 
 
-### **First Recommendation**: Paul should move to a 1 bedroom if he decides to live alone.
+### **First Recommendation**: Paul should move to a 1 bedroom if he decides to live alone, as there is only a 10% difference in rent between a studio and a one bedroom apartment. This will help Paul have more space.
 
 
 
