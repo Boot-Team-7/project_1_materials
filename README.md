@@ -185,7 +185,7 @@ Top 5 Most Affordable States Plotted on Heatmap:
 
 
 
-### **Second Recommendation**: Paul would prefer to stay in GA, since his friends and family live there. While Georgia's rent prices did increase YoY, they did so at a slower pace than many of the other states. Georgia is also not in the list of the 5 most expensive states. Based on all of these factors, we recommend Paul stays in Georgia.
+### **Second Recommendation**: After following up with Paul and enlightening him about Georgia's rent prices not being in the top 5 states. We suggested that he stay in Georgia. He took our recommendation and decided to stay close to his family and friends in GA.
 
 
 
