@@ -234,18 +234,22 @@ We then created a scatter plot with a regression line that shows the correlation
 
 ![image](/Consolidated_new/Screenshots/Screenshot%2014.png)
 
-    Based on the scatter plot, there is a negative correlation between the distance from the center of Atlanta and the rent price for a 1 bedroom in 2021. For the most part, counties that are farther away from Atlanta have lower rent prices. 
+    Based on the scatter plot, there is a negative correlation between the distance from the center of Atlanta and the rent 
+    price for a 1 bedroom in 2021. For the most part, counties that are farther away from Atlanta have lower rent prices. 
 
 We also created bins based on the distance from Atlanta to show some other visualizations that further prove the correlation:
 
 ![image](/Consolidated_new/Screenshots/Screenshot%2015.png)
 
-    The boxplots show that the bins closest to Atlanta (<30 and 30-60) have the highest median rent price. We also see a high median rent price around 240-270 miles away from Atlanta, which is where Savannah is located (but the median is still lower than living in Atlanta). 
+    The boxplots show that the bins closest to Atlanta (<30 and 30-60) have the highest median rent price. We also see a high 
+    median rent price around 240-270 miles away from Atlanta, which is where Savannah is located (but the median is still lower 
+    than living in Atlanta). 
 
 
 ![image](/Consolidated_new/Screenshots/Screenshot%2016.png)
 
-    This bar plot further confirms the relationship between distance from Atlanta and rent price, which is seen across all bedroom types (not just one bedrooms!)
+    This bar plot further confirms the relationship between distance from Atlanta and rent price, which is seen across all 
+    bedroom types (not just one bedrooms!)
 
 
 
@@ -257,7 +261,9 @@ Then, we created a scatter plot with a linear regression line showing the correl
 
 ![image](/Consolidated_new/Screenshots/Screenshot%2017.png)
 
-    Based on the scatter plot, it seems like there's no correlation (weak) between the crime rates and the distance from Atlanta! Since the distance does not matter, we would have to look at the crime rates in the counties where Paul is interested to move. 
+    Based on the scatter plot, it seems like there's no correlation (weak) between the crime rates and the distance from 
+    Atlanta! Since the distance does not matter, we would have to look at the crime rates in the counties where Paul is 
+    interested to move. 
 
 
 ### **Third Recommendation**: Based on all of the data that we showed to Paul, we've come up with a list of 5 counties that would be good options for Paul to move to.
