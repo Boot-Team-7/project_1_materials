@@ -277,7 +277,7 @@ These counties were selected because they are close to major cities (Savannah, A
 
 
 
-## **Question 8)** What are the crime rates of each of the different GA counties that Paul is interested in? 
+## **Question 8)** What are the crime rates for each of the different GA counties that Paul is interested in? 
 
 Below is a DF with the crime rates for each of the 5 counties:
 
