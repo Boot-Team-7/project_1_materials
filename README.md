@@ -134,7 +134,9 @@ To answer this question, we created a boxplot that shows rent price for each num
     Based on the boxplots, studios and 1 bedrooms have less variability in rent prices. 4 bedrooms have the highest variability. 
 
 
-### **First Recommendation**: After talking with Paul, he's decided to live alone. We recommend a 1 bedroom apartment, as there is only a 10% difference in rent between a studio and a one bedroom apartment. This will help Paul have more space. We'll be mostly focusing on 1 bedroom rent prices for the rest of the analysis. 
+### **First Recommendation**: After talking with Paul, he's decided to live alone. We recommend a 1 bedroom apartment, as there is only a 10% difference in rent between a studio and a one bedroom apartment. This will help Paul have more space. 
+
+### We'll be mostly focusing on 1 bedroom rent prices for the rest of the analysis. 
 
 
 ## **Question 4)** How have rent prices changed per state YoY? (% Increase)
