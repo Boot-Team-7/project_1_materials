@@ -255,7 +255,7 @@ We also created bins based on the distance from Atlanta to show some other visua
 
 ## **Question 8)**  Is there a correlation between crime rate and distance from Atlanta?
 
-To answer these questions, we loaded a csv [file](/Consolidated_new/Other_Files/Crime_data_per_county.csv) that contains the crime rates (per 1,000) for each of the GA counties and merged it with our GA counties DataFrame. 
+To answer this question, we loaded a csv [file](/Consolidated_new/Other_Files/Crime_data_per_county.csv) that contains the crime rates (per 1,000) for each of the GA counties and merged it with our GA counties DataFrame. 
 
 Then, we created a scatter plot with a linear regression line showing the correlation between distance from Atlanta and crime rate:
 
