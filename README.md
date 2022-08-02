@@ -135,7 +135,7 @@ Since we want to ensure that Paul moves to an affordable state, we analyzed how 
 
 ![image](/Consolidated_new/Screenshots/Screenshot%203.png)
 
-    From 2020 to 2021, the majority of states experienced a YoY increase in rent prices, with the exception of AK, SD, VT, WV and WY. California and Rhode Island had the biggest YoY increase in rent, indicating that these wouldn't be good options for Paul if affordability is very important. While Georgia's rent prices also increased YoY, they did so a slower pace than many other states. 
+    >From 2020 to 2021, the majority of states experienced a YoY increase in rent prices, with the exception of AK, SD, VT, WV and WY. California and Rhode Island had the biggest YoY increase in rent, indicating that these wouldn't be good options for Paul if affordability is very important. While Georgia's rent prices also increased YoY, they did so a slower pace than many other states. 
 
 
 
