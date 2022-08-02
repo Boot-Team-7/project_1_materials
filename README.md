@@ -108,8 +108,7 @@ In order to help answer this question, we calculated the average rent per number
 
 ![image](/Consolidated_new/Screenshots/Screenshot%201.png)
 
-    As expected, the average rent for a one bedroom is more expensive than a studio apartment. 
-    However, the increase in rent is only 10%. 
+    As expected, the average rent for a one bedroom is more expensive than a studio apartment. However, the increase in rent is only 10%. 
 
 
 
@@ -135,10 +134,10 @@ Since we want to ensure that Paul moves to an affordable state, we analyzed how 
 
 ![image](/Consolidated_new/Screenshots/Screenshot%203.png)
 
-    From 2020 to 2021, the majority of states experienced a YoY increase in rent prices, with the exception of AK, SD, VT, WV and WY.
-    
-    California and Rhode  Island had the biggest YoY increase in rent, indicating that these wouldn't be good options for Paul if affordability is very         
-    important. While Georgia's rent prices also increased YoY, they did so a slower pace than many other states. 
+    From 2020 to 2021, the majority of states experienced a YoY increase in rent prices, with the exception of AK, SD, VT, 
+    WV and WY. California and Rhode  Island had the biggest YoY increase in rent, indicating that these wouldn't be good 
+    options for Paul if affordability is very important. While Georgia's rent prices also increased YoY, they did so a 
+    slower pace than many other states. 
 
 
 
