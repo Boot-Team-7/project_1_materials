@@ -232,18 +232,18 @@ The DataFrame that we created is exported in this [csv](/Consolidated_new/Other_
 
 We then created a scatter plot with a regression line that shows the correlation between distance from the center of Atlanta and rent price for a 1 bedroom in 2021:
 
-![image]/(/Consolidated_new/Screenshots/Screenshot%2014.png)
+![image](/Consolidated_new/Screenshots/Screenshot%2014.png)
 
     Based on the scatter plot, there is a negative correlation between the distance from the center of Atlanta and the rent price for a 1 bedroom in 2021. For the most part, counties that are farther away from Atlanta have lower rent prices. 
 
 We also created bins based on the distance from Atlanta to show some other visualizations that further prove the correlation:
 
-![image]/(/Consolidated_new/Screenshots/Screenshot%2015.png)
+![image](/Consolidated_new/Screenshots/Screenshot%2015.png)
 
     The boxplots show that the bins closest to Atlanta (<30 and 30-60) have the highest median rent price. We also see a high median rent price around 240-270 miles away from Atlanta, which is where Savannah is located (but the median is still lower than living in Atlanta). 
 
 
-![image]/(/Consolidated_new/Screenshots/Screenshot%2016.png)
+![image](/Consolidated_new/Screenshots/Screenshot%2016.png)
 
     This bar plot further confirms the relationship between distance from Atlanta and rent price, which is seen across all bedroom types (not just one bedrooms!)
 
@@ -255,7 +255,7 @@ To answer these questions, we loaded a csv [file](/Consolidated_new/Other_Files/
 
 Then, we created a scatter plot with a linear regression line showing the correlation between distance from Atlanta and crime rate:
 
-![image]/(/Consolidated_new/Screenshots/Screenshot%2017.png)
+![image](/Consolidated_new/Screenshots/Screenshot%2017.png)
 
     Based on the scatter plot, it seems like there's no correlation (weak) between the crime rates and the distance from Atlanta! Since the distance does not matter, we would have to look at the crime rates in the counties where Paul is interested to move. 
 
@@ -275,7 +275,7 @@ These counties were selected because they are close to major cities (Savannah, A
 
 Below is a DF with the crime rates for each of the 5 counties:
 
-![image]/(/Consolidated_new/Screenshots/Screenshot%2018.png)
+![image](/Consolidated_new/Screenshots/Screenshot%2018.png)
 
     Based on this, Columbia County has the lowest crime rate (0.97) and the lowest 1 bedroom price as well. 
 
@@ -286,7 +286,7 @@ In order to further help Paul, we also located different leasing offices that Pa
 
 Below is a heatmap with markers for each of the leasing offices that we located:
 
-![image]/(/Consolidated_new/Screenshots/Screenshot%2019.png)
+![image](/Consolidated_new/Screenshots/Screenshot%2019.png)
 
 
 
