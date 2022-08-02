@@ -201,17 +201,22 @@ To answer this question, we created a scatter plot with a regression line that l
 
 ![image](/Consolidated_new/Screenshots/Screenshot%2012.png)
 
-    Based on the scatter plot, there is a positive correlation between bedroom rent prices and the population of each county. A county with higher population might have higher rent prices.
+    Based on the scatter plot, there is a positive correlation between bedroom rent prices and the population of each county. 
+    A county with higher population might have higher rent prices.
     
 In order to plot a heatmap for the GA counties, we needed to figure out the latitude and longitude of each county. To accomplished this, we loaded this [file](/Consolidated_new/Other_Files/list-counties-georgia.csv), which contains the county seats for each of the GA counties. We used the county seats information to make a call to the google maps [api](https://developers.google.com/maps) and added the latitudes and longitudes of each GA county into our DataFrame:
 
-![image]/(Consolidated_new/Screenshots/Screenshot%2021.png)
+![image](/Consolidated_new/Screenshots/Screenshot%2021.png)
 
 With the lat and lng information, we created a HeatMap based on the population of each GA county, and added clickable markers showing the highest and lowest population by state:
 
-![image]/(/Consolidated_new/Screenshots/Screenshot%2013.png)
+![image](/Consolidated_new/Screenshots/Screenshot%2013.png)
 
-    Based on the map, the top 5 counties with the highest population are Cobb, Fulton, DeKalb, Gwinnett and Taliaferro counties. The counties with the least population are Glascock, Chatham, Quitman, Webster and Clay counties. With the exception of Savannah, it looks like the most populated counties are the ones closest to the city of Atlanta. We know that there is a positive correlation between population and rent price. Is there also a correlation between distance from the center of Atlanta and rent price?
+    Based on the map, the top 5 counties with the highest population are Cobb, Fulton, DeKalb, Gwinnett and Taliaferro 
+    counties. The counties with the least population are Glascock, Chatham, Quitman, Webster and Clay counties. With the 
+    exception of Savannah, it looks like the most populated counties are the ones closest to the city of Atlanta. We know 
+    that there is a positive correlation between population and rent price. Is there also a correlation between distance 
+    from the center of Atlanta and rent price?
 
 
 
