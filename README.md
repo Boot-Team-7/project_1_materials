@@ -235,7 +235,7 @@ We then created a scatter plot with a regression line that shows the correlation
 ![image](/Consolidated_new/Screenshots/Screenshot%2014.png)
 
     Based on the scatter plot, there is a negative correlation between the distance from the center of Atlanta and the rent 
-    price for a 1 bedroom in 2021. For the most part, counties that are farther away from Atlanta have lower rent prices. 
+    prices. For the most part, counties that are farther away from Atlanta have lower rent prices. 
 
 We also created bins based on the distance from Atlanta to show some other visualizations that further prove the correlation:
 
