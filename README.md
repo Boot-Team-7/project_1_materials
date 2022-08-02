@@ -120,7 +120,7 @@ We made a scatter plot that shows that living with a roommate would be cheaper f
 
 If Paul is willing, getting a 4 bedroom with 3 roommmates would be the most cost-effective option:
 
-![image](/Consolidated_new/Screenshots/Screenshot%2022.png)
+![image](/Consolidated_new/Screenshots/Screenshot%2023.png)
 
 
 ## **Question 3)** What is the variability in rent prices for the different bedroom types (studio, 1, 2, 3 or 4 bedroom)? 
