@@ -277,7 +277,7 @@ These counties were selected because they are close to major cities (Savannah, A
 
 
 
-## **Question 8)** What are the crime rates for each of the different GA counties that Paul is interested in? 
+## **Question 9)** What are the crime rates for each of the different GA counties that Paul is interested in? 
 
 Below is a DF with the crime rates for each of the 5 counties:
 
@@ -286,13 +286,13 @@ Below is a DF with the crime rates for each of the 5 counties:
     Based on this, Columbia County has the lowest crime rate (0.97) and the lowest 1 bedroom price as well. 
 
 
-## **Question 9)** Can we locate leasing offices for each of the counties on Google maps?
+## **Question 10)** Can we locate leasing offices for each of the counties on Google maps?
 
 In order to further help Paul, we also located different leasing offices that Paul could reach out to in case he wants more information. We accomplished this by using the google places [api](https://developers.google.com/maps/documentation/places/web-service/overview).
 
 Below is a heatmap with markers for each of the leasing offices that we located:
 
-![image](/Consolidated_new/Screenshots/Screenshot%2019.png)
+![image](/Consolidated_new/Screenshots/Screenshot%2020.png)
 
 
 
